@@ -20,7 +20,7 @@
 			<path fill="#2e2f42" d="m13.602 18.544-2.143-2.133a.534.534 0 0 0-.753 0l-2.142 2.133a.537.537 0 0 0 0 .756l2.142 2.133a.536.536 0 0 0 .753 0l2.143-2.133a.535.535 0 0 0 0-.756zm-2.519 1.759-1.387-1.381 1.387-1.381 1.387 1.381-1.387 1.381zM17.164 5.071l-.258 1.036c.071.018 1.738.452 1.738 2.149h1.067c0-2.017-1.666-2.965-2.547-3.185zM19.711 9.322h-1.067v1.067h1.067V9.322z" style="fill:var(--color2, #2e2f42)" />
 		</symbol>
 		<symbol id="icon-up" viewBox="0 0 50 32">
-<path stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="7.1111" d="M46.222 28.444l-21.333-21.333-21.333 21.333"></path>
+            <path stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="7.1111" d="M46.222 28.444l-21.333-21.333-21.333 21.333"></path>
 </symbol>
  <symbol id="arrow-reviews-left" viewBox="0 0 32 32">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M26.667 16H5.334M13.333 24l-8-8 8-8"/>
