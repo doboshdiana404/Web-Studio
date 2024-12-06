@@ -123,14 +123,6 @@ form.addEventListener('submit', async event => {
     return;
   }
 
-  // if (userComment.value.trim() === "") {
-  //   errorMsg.style.display = "block";
-  //   errorMsg.textContent = "All fields must be filled";
-  //   return;
-  // } else {
-  //   errorMsg.style.display = "none";
-  // }
-
   if (validateEmail() && validateNumber()) {
     const formData = {
       name: inputName.value.trim(),
