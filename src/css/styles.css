@@ -131,7 +131,9 @@ address {
 }
 
 .header-icon-close {
-  fill: #2e2f42;
+  width: 8px;
+  height: 8px;
+  /* fill: #2e2f42; */
 }
 
 .header-menu-modal {
