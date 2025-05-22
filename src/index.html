@@ -581,7 +581,7 @@
         </div>
         <div class="footer-form-container" id="contacts">
           <p class="footer-subtitle group-title">Subscribe</p>
-          <form class="form-group">
+          <form class="form-group" id="subscribe-form">
             <label
               for="footer-email"
               aria-label="Subscribe"
@@ -595,9 +595,10 @@
                 placeholder="E-mail"
                 required
                 autocomplete="off"
-                pattern="^\w+(\.\w+)?@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$"
               />
-              <p class="form-input-error">Invalid email, try again</p>
+              <p class="form-input-error-subscribe form-input-error">
+                Invalid email, try again
+              </p>
             </label>
 
             <button type="submit" class="footer-btn">Subscribe</button>
